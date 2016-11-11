@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{5DE497F7-E935-9434-AEF1-DAF118D7DA3C}") = "ProceduralMeshes", "Assembly-CSharp.csproj", "{D15F60C3-0F4F-BCE8-7958-38067EC954C5}"
+EndProject
+Project("{5DE497F7-E935-9434-AEF1-DAF118D7DA3C}") = "ProceduralMeshes", "Assembly-CSharp-Editor-firstpass.csproj", "{C1BBC47D-D417-0176-9CF1-0F0CCC99F1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15F60C3-0F4F-BCE8-7958-38067EC954C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15F60C3-0F4F-BCE8-7958-38067EC954C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15F60C3-0F4F-BCE8-7958-38067EC954C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15F60C3-0F4F-BCE8-7958-38067EC954C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BBC47D-D417-0176-9CF1-0F0CCC99F1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BBC47D-D417-0176-9CF1-0F0CCC99F1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BBC47D-D417-0176-9CF1-0F0CCC99F1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BBC47D-D417-0176-9CF1-0F0CCC99F1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
